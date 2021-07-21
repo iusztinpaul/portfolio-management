@@ -1,6 +1,6 @@
 # Portfolio Management
 
-This is a reinterpretation of the portfolio management solution described in the following paper:
+This is an implementation of the portfolio management solution described in the following paper:
 [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059).
 The purpose of this project was to make the code more flexible for further usage in different applications.
 
