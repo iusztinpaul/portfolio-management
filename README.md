@@ -39,3 +39,24 @@ python backtest.py
 /path/to/data/logging
 ```
 
+
+## Concrete Backtest
+* These are the results after running the following command:
+```shell
+python backtest.py
+--config_file
+config\crypto_test_2017.yaml
+--storage_path
+\path\to\aiie_crypto_storage
+```
+
+#### Prices
+![Prices](images/prices.png)
+
+
+#### Relative results
+![Results](images/results.png)
+
+* After a six month period of trading the agent made a +40% profit. But we can see that the portfolio value 
+was not stable at all. Therefore, there is place for a lot of improvement.
+
