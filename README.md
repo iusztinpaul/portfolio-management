@@ -2,7 +2,7 @@
 
 This is an implementation of the portfolio management solution described in the following paper:
 [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059).
-The purpose of this project was educational & to make the code more flexible than the original implementation for further usage in different applications.
+The purpose of this project was educational & to make the code more flexible than the original implementation for further usages in different applications.
 
 ## Requirements
 * Code tested with `Python 3.7.9`, `pytorch 1.8.0`, `cuda 11.1` & `cudnn 8.0` on `Windows 10`
